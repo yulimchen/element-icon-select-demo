@@ -1,24 +1,7 @@
 # element-icon-select-demo
 
-## Project setup
-```
-yarn install
-```
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
 
-### Compiles and minifies for production
-```
-yarn build
-```
+![1640341697002](medias/1640341697002.png)
 
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+最近开发后台项目用到了图标选择组件，网上查阅资料后基于 Font Awesome 图标库封装了下，技术栈是 Vue2 + element-ui。
